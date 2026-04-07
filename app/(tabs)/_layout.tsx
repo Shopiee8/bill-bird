@@ -64,6 +64,10 @@ const TabLayout = () => {
           }}
         />
       ))}
+      <Tabs.Screen
+        name="subscriptions/[id]"
+        options={{ href: null }}
+      />
     </Tabs>
   );
 };

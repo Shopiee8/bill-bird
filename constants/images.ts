@@ -1,0 +1,16 @@
+export const images = {
+  avatar: require("../assets/images/avatar.png"),
+  logo: require("../assets/images/logo-glow.png"),
+  expoLogo: require("../assets/images/expo-logo.png"),
+  favicon: require("../assets/images/favicon.png"),
+  icon: require("../assets/images/icon.png"),
+  splashIcon: require("../assets/images/splash-icon.png"),
+  splashPattern: require("../assets/images/splash-pattern.png"),
+  tutorialWeb: require("../assets/images/tutorial-web.png"),
+  reactLogo: require("../assets/images/react-logo.png"),
+  expoBadge: require("../assets/images/expo-badge.png"),
+  expoBadgeWhite: require("../assets/images/expo-badge-white.png"),
+  androidIconBackground: require("../assets/images/android-icon-background.png"),
+  androidIconForeground: require("../assets/images/android-icon-foreground.png"),
+  androidIconMonochrome: require("../assets/images/android-icon-monochrome.png"),
+};
